@@ -1,0 +1,3 @@
+- 👋 Hi, I’m sehnaz
+- 👀 I’m interested in Machine Learning (ML), Deep Learning
+- 🌱 I’m currently learning Python and AWS
